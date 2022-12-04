@@ -3,3 +3,4 @@ http://dan.drown.org/stm32duino/package_STM32duino_index.json
 https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json
 https://raw.githubusercontent.com/digistump/arduino-boards-index/master/package_digistump_index.json
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json
+https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json
